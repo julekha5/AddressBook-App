@@ -1,5 +1,5 @@
 /*UC 6 Addressbook contact JSON Object*/
-class AddressBookApp {
+class AddressBookData {
     get id() {
         return this._id;
     }
