@@ -1,15 +1,5 @@
-<<<<<<< HEAD
-/*UC 6 Addressbook contact JSON Object*/
+/*UC7 getter setter form validation and to string method  */
 class AddressBookData {
-    get id() {
-        return this._id;
-    }
-    set id(id) {
-        this._id = id;
-    }
-=======
-class AddressBookData {
->>>>>>> UC7_Getters-Setters
 
     get name() {
         return this._name;
